@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coins
+  - grass
+  - Crab
+  - Crab Ravers
+  - movingsand
+  - male
+  - female
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sea
+    uniqueID: 1628724957
+    locked: 0
+  - name: Sand
+    uniqueID: 2484086761
+    locked: 0
+  - name: movingsand
+    uniqueID: 4156282271
+    locked: 0
+  - name: table_trees
+    uniqueID: 90110007
+    locked: 0
+  - name: Player
+    uniqueID: 1063771813
+    locked: 0
